@@ -35,7 +35,7 @@ import com.xqzgj.system.service.ISysUserService;
 /**
  * 用户信息
  * 
- * @author ruoyi
+ * @author Zhoujiam
  */
 @RestController
 @RequestMapping("/system/user")

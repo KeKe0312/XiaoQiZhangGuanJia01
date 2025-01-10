@@ -24,7 +24,7 @@ import com.xqzgj.framework.config.ServerConfig;
 /**
  * 通用请求处理
  * 
- * @author ruoyi
+ * @author Zhoujiam
  */
 @RestController
 @RequestMapping("/common")
