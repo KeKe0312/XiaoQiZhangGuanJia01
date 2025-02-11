@@ -133,7 +133,8 @@ export default {
   justify-content: center;
   align-items: center;
   height: 100%;
-  background-image: url("https://kekepicgo.oss-cn-shanghai.aliyuncs.com/image-20250110161000590.png");
+  // 主界面的背景图片
+  background-image: url("https://kekepicgo.oss-cn-shanghai.aliyuncs.com/image-20250110173939375.png");
   background-size: cover;
 }
 
